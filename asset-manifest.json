@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dark-pricing-cards/static/css/main.b31a347d.css",
+    "main.js": "/dark-pricing-cards/static/js/main.e1239981.js",
+    "static/js/453.4db2cb64.chunk.js": "/dark-pricing-cards/static/js/453.4db2cb64.chunk.js",
+    "index.html": "/dark-pricing-cards/index.html",
+    "main.b31a347d.css.map": "/dark-pricing-cards/static/css/main.b31a347d.css.map",
+    "main.e1239981.js.map": "/dark-pricing-cards/static/js/main.e1239981.js.map",
+    "453.4db2cb64.chunk.js.map": "/dark-pricing-cards/static/js/453.4db2cb64.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b31a347d.css",
+    "static/js/main.e1239981.js"
+  ]
+}
